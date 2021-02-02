@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 12.24
 permalink: /kr-exercises/ex_24/
 breadcrumb: 12-Knowledge-Representation
+canonical_id: ch12ex24
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="kr-exercises" data-exercise="ex_24" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

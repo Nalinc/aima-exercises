@@ -1,11 +1,11 @@
 ---
 layout: exercise
-title: Exercise 6.10
+title: Exercise 6.100
 permalink: /csp-exercises/ex_10/
 breadcrumb: 6-Constraint-Satisfaction-Problems
+canonical_id: ch6ex10
 ---
 
 {% include mathjax_support %}
 
-<div><i class="arrow-up loader" data-chapter="csp-exercises" data-exercise="ex_10" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

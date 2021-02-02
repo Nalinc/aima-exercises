@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 10.16
 permalink: /planning-exercises/ex_16/
 breadcrumb: 10-Classical-Planning
+canonical_id: ch10ex16
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="planning-exercises" data-exercise="ex_16" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

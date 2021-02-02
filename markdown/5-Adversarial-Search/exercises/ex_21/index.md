@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 5.21
 permalink: /game-playing-exercises/ex_21/
 breadcrumb: 5-Adversarial-Search
+canonical_id: ch5ex21
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="game-playing-exercises" data-exercise="ex_21" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

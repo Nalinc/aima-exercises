@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 16.22
 permalink: /decision-theory-exercises/ex_22/
 breadcrumb: 16-Making-Simple-Decisions
+canonical_id: ch16ex22
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="decision-theory-exercises" data-exercise="ex_22" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

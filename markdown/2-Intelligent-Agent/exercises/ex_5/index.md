@@ -1,11 +1,10 @@
 ---
 layout: exercise
-title: Exercise 2.5
+title: Exercise 2.5 (PEAS-exercise)
 permalink: /agents-exercises/ex_5/
 breadcrumb: 2-Intelligent-Agent
+canonical_id: ch2ex5
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="agents-exercises" data-exercise="ex_5" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

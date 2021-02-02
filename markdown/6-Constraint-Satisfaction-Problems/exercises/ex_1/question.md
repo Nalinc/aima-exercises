@@ -1,5 +1,5 @@
-[Exercise 6.1](ex_1/)
+
 
 How many solutions are there for the map-coloring problem in
-Figure [australia-figure](#/)? How many solutions if four
+Figure <a class="insideBookFigRef" target="_blank" href="https://aimacode.github.io/aima-exercises/figures/australia-figure.png">australia-figure</a>? How many solutions if four
 colors are allowed? Two colors?

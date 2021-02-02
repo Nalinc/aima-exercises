@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 9.2
 permalink: /logical-inference-exercises/ex_2/
 breadcrumb: 9-Inference-In-First-Order-Logic
+canonical_id: ch9ex2
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="logical-inference-exercises" data-exercise="ex_2" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

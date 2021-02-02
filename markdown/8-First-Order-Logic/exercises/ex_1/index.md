@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 8.1
 permalink: /fol-exercises/ex_1/
 breadcrumb: 8-First-Order-Logic
+canonical_id: ch8ex1
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="fol-exercises" data-exercise="ex_1" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

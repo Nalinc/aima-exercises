@@ -2,10 +2,9 @@
 layout: exercise
 title: Exercise 3.10
 permalink: /search-exercises/ex_10/
-breadcrumb: 3-Solving-Problems-By-Searching
+breadcrumb: 3-Solving-Problems-By-Searching10
+canonical_id: ch3ex10
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="search-exercises" data-exercise="ex_10" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

@@ -3,9 +3,9 @@ layout: exercise
 title: Exercise 6.2
 permalink: /csp-exercises/ex_2/
 breadcrumb: 6-Constraint-Satisfaction-Problems
+canonical_id: ch6ex2
 ---
 
 {% include mathjax_support %}
 
-<div><i class="arrow-up loader" data-chapter="csp-exercises" data-exercise="ex_2" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

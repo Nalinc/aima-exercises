@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 24.7
 permalink: /perception-exercises/ex_7/
 breadcrumb: 24-Perception
+canonical_id: ch24ex7
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="perception-exercises" data-exercise="ex_7" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

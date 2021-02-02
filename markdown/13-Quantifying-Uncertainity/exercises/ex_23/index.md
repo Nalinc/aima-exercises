@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 13.23
 permalink: /probability-exercises/ex_23/
 breadcrumb: 13-Quantifying-Uncertainity
+canonical_id: ch13ex23
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="probability-exercises" data-exercise="ex_23" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>

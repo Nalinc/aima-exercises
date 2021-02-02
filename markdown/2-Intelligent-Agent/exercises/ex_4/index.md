@@ -3,9 +3,8 @@ layout: exercise
 title: Exercise 2.4
 permalink: /agents-exercises/ex_4/
 breadcrumb: 2-Intelligent-Agent
+canonical_id: ch2ex4
 ---
 
 {% include mathjax_support %}
-
-<div><i class="arrow-up loader" data-chapter="agents-exercises" data-exercise="ex_4" data-rating="0"></i></div>
-{% include_relative question.md %}
+<div id="hiddden">{% include_relative question.md %}</div>
